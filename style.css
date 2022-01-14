@@ -1,0 +1,76 @@
+/* ---------
+font-family
+-------------- */
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Poppins:ital,wght@1,500&family=Rubik:wght@500&display=swap');
+
+/* ----------
+preeboking-icon
+--------------- */
+
+
+body{
+    font-family: 'Libre Baskerville', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Rubik', sans-serif;
+  
+}
+h1{
+    font-weight: 700;
+    font-size: 50px;
+}
+h2{
+    margin-top: 100px;
+    margin-left: 100px;
+    
+}
+p{
+    padding-bottom: 20px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(233, 14, 105);
+    padding: 8px 35px 8px 20px;
+    border-radius: 50px;
+    font-size: 20px;
+     
+}
+
+
+.top-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px 120px 100px 100px;
+
+    
+}
+.Header img{
+    padding-left: 20px;
+    
+}
+.logos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    grid-gap: 3em;
+    
+    }
+    h3{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 100px;
+       
+    }
+    nav{
+        background-color: blueviolet;
+        padding: 30px;
+    }
+    nav a{
+        background-color: brown;
+    }
+    
+       
+
